@@ -1,5 +1,5 @@
 ## Julian Casanova
-### Desarrollador Front-end
+### Desarrollador Front-end React/Next
 ### Bienvenid@s
 
 
